@@ -783,6 +783,10 @@ select {
         width: 100vw;
     }
 
+    .hero {
+        height: 400px;
+    }
+
     .oneway-career {
         width: 100%;
     }
